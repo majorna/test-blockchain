@@ -1,0 +1,30 @@
+{
+  "header": {
+    "prevPow": "654c663a7cfe26b19e689c27cec1b7a483282f07aef9542655e42744589479fb",
+    "txCount": 1,
+    "merkleRoot": "eaa479be9abce0cd37b0e7209586b55dea693edfab97e76b75ad89e740b6f78d",
+    "nonce": 1,
+    "no": 4,
+    "time": "2018-08-02T10:39:23.117Z",
+    "prevHash": "c8770ad0318ab8d45f1e54aa814c80738c1f8fd82a129ca9aba750c65cc3977c",
+    "version": 2,
+    "minDifficulty": 1
+  },
+  "sig": "3045022100dfdc7bec09dec131e155ac4d3f668605fc12826db3979396b122f1d37e115a7902205aabd5b0dc9a0d1a9815fbbc4559fdd6bb7494cd756da23c8e93a1de66143782",
+  "txs": [
+    {
+      "to": {
+        "balance": 500,
+        "id": "1"
+      },
+      "sig": "3044022074e5faa3c8f8a03e1ef70c1d530210ca02798831666efb0b9f05c69ec366ac9102203831753eb3d3ae640521dcf55eca2aa5edf6c2544b818b04ad232f47b91c370d",
+      "amount": 1,
+      "time": "2018-08-02T10:39:21.213Z",
+      "id": "pgBeCvJcKvFw5nDYOczr",
+      "from": {
+        "balance": 0,
+        "id": "majorna"
+      }
+    }
+  ]
+}
