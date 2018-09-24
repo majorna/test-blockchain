@@ -1,0 +1,15 @@
+{
+  "txs": [],
+  "header": {
+    "prevPow": "00114766ac17244020d6d53c79bceb38ab91ebbb1032132ab7d7618ad9481c5b",
+    "txCount": 0,
+    "merkleRoot": "",
+    "nonce": 1,
+    "no": 9,
+    "time": "2018-09-24T14:12:39.974Z",
+    "prevHash": "4175f0a1e4c8703cd6718a6e1b7cc370066401eba5e2e978de585e94bea2597f",
+    "version": 2,
+    "minDifficulty": 1
+  },
+  "sig": "30440220477f3471c517ce87a435b77806fc6b520f58759067a4f310959f77182a4abfb902204fad1ace6980f8405eeedd55cabdcd48aa4607acc56e0bd5c43bdb03ff47753a"
+}
