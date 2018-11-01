@@ -1,0 +1,30 @@
+{
+  "txs": [
+    {
+      "id": "lfTfEtnYl6nYplKqkKoZ",
+      "from": {
+        "balance": 0,
+        "id": "majorna"
+      },
+      "to": {
+        "balance": 500,
+        "id": "1"
+      },
+      "sig": "304502200cb244e2cfefd27656ccea9bdff64fac035d46578d8ed6f8b225e75be02c4da3022100db1c73b6af2ffbfe4025d4640d8e87bfe597e40785a2fca5fbd19b6d7f2f7812",
+      "amount": 1,
+      "time": "2018-11-01T15:45:50.792Z"
+    }
+  ],
+  "header": {
+    "prevPow": "5795578294697e9e82fabcb879594ee285bff92b616c88286e86cec5fe0695db",
+    "txCount": 1,
+    "merkleRoot": "3e3481e4d2a325948af4a3731566af4e65265cab52bfb687a29a7756f2b087c6",
+    "nonce": 1,
+    "no": 4,
+    "time": "2018-11-01T15:45:51.525Z",
+    "prevHash": "1043f6d91c350ffe0919ff09ddf5e07a65ac2e5ec988d73c8e6d3400f07f64a3",
+    "version": 2,
+    "minDifficulty": 1
+  },
+  "sig": "3045022030c958964c4c970042f9b72898f8c6e2259dd5e109d00680300d636aef8b20e4022100d31b3879fb10f434f5c40cd2c6d2f16891064f622c9380df1e19ff189b9a9b98"
+}
