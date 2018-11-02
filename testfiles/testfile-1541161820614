@@ -1,0 +1,13 @@
+{
+  "header": {
+    "nonce": 0,
+    "no": 1,
+    "time": "2018-01-01T00:00:00.000Z",
+    "prevHash": "",
+    "minDifficulty": 0,
+    "txCount": 0,
+    "merkleRoot": ""
+  },
+  "sig": "304402204557b9d7437a21e8be940356b118abb0bff5886fbdef811df75938e12782879302207ffbea3a83f02c19ca7b5ec88094f960b1c8294c46c8f62c8981bed778d50cf0",
+  "txs": []
+}
