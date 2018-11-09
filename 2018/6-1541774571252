@@ -1,0 +1,44 @@
+{
+  "txs": [
+    {
+      "amount": 3,
+      "time": "2018-11-09T14:33:17.461Z",
+      "id": "61xTKvOqCwtpIAGPD4HX",
+      "from": {
+        "balance": 0,
+        "id": "majorna"
+      },
+      "to": {
+        "balance": 527,
+        "id": "dH5327GuTNWkgFp467ru7P3SpFt1"
+      },
+      "sig": "304502202b0198dec1cae88db729ab63e4adbf2dcc6b1bbabb546446a0997d2d777a9d6d022100f28fe6732a6f2f88acb5e2f9db47652bb175c1d1531ed2b40cc6d0b9810aad41"
+    },
+    {
+      "amount": 4,
+      "time": "2018-11-09T14:33:18.886Z",
+      "id": "IcMR7X0tzfHJ6abdP6tw",
+      "from": {
+        "balance": 0,
+        "id": "majorna"
+      },
+      "to": {
+        "balance": 530,
+        "id": "dH5327GuTNWkgFp467ru7P3SpFt1"
+      },
+      "sig": "3044022017c1b5ecc2091cb338a29ac0f3277dcee3fcb9f9a2f282fa96bc52b7ab2cdac202203dc4947e737a0f1c16dae0ea88449024b9f4fa29a1c70c5c8d1b8b848a417b80"
+    }
+  ],
+  "header": {
+    "txCount": 2,
+    "merkleRoot": "39efda7f0edae3007aeacfbd1c29284ac9b5fd794ada3582d7930faf8e063c79",
+    "nonce": "383752731",
+    "no": 6,
+    "time": "2018-11-09T14:33:20.676Z",
+    "prevHash": "26a12b5e9a21ac8080b200987cbe10eb047cafa42a6b56b36571682db8b66026",
+    "version": 2,
+    "minDifficulty": 14,
+    "prevPow": "000e553da0782c9750621801f8400d6c0c39ee25371d70be12c03d46d59768ab"
+  },
+  "sig": "3045022100f2c84dd908899b571d8b01a82c5e75565bff4b997976cbeccfd9124e8352ae7f022001804c5002d54470969fd523d12e585c7646c432367176506004ff7c6fc1f11b"
+}
