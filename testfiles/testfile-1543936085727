@@ -1,0 +1,30 @@
+{
+  "header": {
+    "nonce": 6,
+    "no": 4,
+    "time": "2018-12-04T15:08:01.007Z",
+    "prevHash": "d5ad87d184092709de55d2dc2dda87031fa484746cd911bea1818458c0b45726",
+    "version": 2,
+    "minDifficulty": 1,
+    "prevPow": "23b3fa82b8b6a90996a1ca57da537df021c27e9b6d3059917e77a32ed48f943a",
+    "txCount": 1,
+    "merkleRoot": "c70042dce94854313204d3611ca777836b6a3fdfad14a0f89da5fad45ad405ce"
+  },
+  "sig": "3045022100d0092fa9b5fa5beb57240604ed8f665ca173345dab47af7f4ef36a027be601590220111163bbee1b67c9d4677b35196d3611cbc63041cc9c3672e4e09fc7d7a90aad",
+  "txs": [
+    {
+      "from": {
+        "balance": 0,
+        "id": "majorna"
+      },
+      "to": {
+        "balance": 500,
+        "id": "1"
+      },
+      "sig": "3046022100d432b7848386f2276b7401e034b8f297110279e94819f44e12b15df3153c6530022100d43e53ccba57ebad51323583f01fa14ce53da3341fae510e4e592839de50ade9",
+      "amount": 2,
+      "time": "2018-12-04T15:08:00.195Z",
+      "id": "0WPmZN4VU8TvABQoNQ98"
+    }
+  ]
+}
