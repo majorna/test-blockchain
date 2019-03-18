@@ -1,0 +1,16 @@
+{
+  "txs": [],
+  "header": {
+    "time": {
+      "_seconds": 1514764800,
+      "_nanoseconds": 0
+    },
+    "prevHash": "",
+    "minDifficulty": 0,
+    "txCount": 0,
+    "merkleRoot": "",
+    "nonce": 0,
+    "no": 1
+  },
+  "sig": "30450221009517da5b59bb643bd26368b270ada12116e18de534649fffcf26b7428c1f47fb02205cb818e091369d31eb84307895b73613b38d5d40bdb8df8c1e7a7fd3acfd1daa"
+}
